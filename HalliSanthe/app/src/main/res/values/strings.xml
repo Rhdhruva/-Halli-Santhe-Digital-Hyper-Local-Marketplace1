@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Halli-Santhe</string>
+    <string name="tagline">Your Local Artisan Market, Online</string>
+    <string name="choose_role">Who are you?</string>
+    <string name="i_am_buyer">🛒 I\'m a Buyer</string>
+    <string name="i_am_artisan">🏺 I\'m an Artisan</string>
+
+    <!-- Search -->
+    <string name="search_hint">Search products or categories…</string>
+
+    <!-- Artisan -->
+    <string name="add_product">Add Product</string>
+    <string name="list_product">List My Product</string>
+    <string name="pick_image">Pick Image</string>
+
+    <!-- Form hints -->
+    <string name="hint_artisan_name">Your Name</string>
+    <string name="hint_product_name">Product Name</string>
+    <string name="hint_price">Price (₹)</string>
+    <string name="hint_category">Category</string>
+    <string name="hint_location">Village / Town</string>
+    <string name="hint_description">Description (optional)</string>
+
+    <!-- Detail -->
+    <string name="artisan_info">Artisan</string>
+    <string name="description_label">About this product</string>
+    <string name="no_description">No description provided.</string>
+    <string name="send_inquiry">Send Inquiry to Artisan</string>
+    <string name="product_image_desc">Product image</string>
+
+    <!-- Inquiry dialog -->
+    <string name="inquiry_title">Inquire About This Product</string>
+    <string name="hint_buyer_name">Your Name</string>
+    <string name="hint_inquiry_message">Your message (availability, price negotiation, etc.)</string>
+
+    <!-- Empty state -->
+    <string name="empty_state_title">No products here yet</string>
+    <string name="empty_state_subtitle">Check back soon, or be the first artisan to list!</string>
+
+    <!-- Actions -->
+    <string name="delete">Remove</string>
+</resources>

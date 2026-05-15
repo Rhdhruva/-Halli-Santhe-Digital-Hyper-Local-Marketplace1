@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand greens -->
+    <color name="green_primary">#2E7D32</color>
+    <color name="green_dark">#1B5E20</color>
+    <color name="green_light">#A5D6A7</color>
+
+    <!-- Brand browns -->
+    <color name="brown_earthy">#5D4037</color>
+    <color name="brown_dark">#3E2723</color>
+    <color name="brown_light">#BCAAA4</color>
+
+    <!-- Accent -->
+    <color name="amber_accent">#FF8F00</color>
+    <color name="amber_light">#FFE082</color>
+
+    <!-- Surfaces -->
+    <color name="bg_surface">#F9F5F0</color>
+    <color name="bg_splash">#2E7D32</color>
+    <color name="card_stroke">#E0D8CE</color>
+
+    <!-- Text -->
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#6B6B6B</color>
+
+    <!-- System -->
+    <color name="white">#FFFFFF</color>
+    <color name="error_red">#D32F2F</color>
+
+    <!-- Material theme slots -->
+    <color name="colorPrimary">@color/green_primary</color>
+    <color name="colorPrimaryDark">@color/green_dark</color>
+    <color name="colorAccent">@color/amber_accent</color>
+    <color name="colorPrimaryVariant">@color/green_dark</color>
+    <color name="colorOnPrimary">@color/white</color>
+    <color name="colorSecondary">@color/amber_accent</color>
+    <color name="colorOnSecondary">@color/brown_dark</color>
+</resources>
